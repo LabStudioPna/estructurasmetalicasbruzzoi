@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://labstudiopna.github.io/estructurasmetalicasbruzzoni/sitemap.xml
